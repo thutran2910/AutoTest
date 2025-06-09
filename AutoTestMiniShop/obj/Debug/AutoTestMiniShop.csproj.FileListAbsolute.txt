@@ -1,0 +1,9 @@
+D:\AutoTestMiniShop\AutoTestMiniShop\bin\Debug\AutoTestMiniShop.exe.config
+D:\AutoTestMiniShop\AutoTestMiniShop\bin\Debug\AutoTestMiniShop.exe
+D:\AutoTestMiniShop\AutoTestMiniShop\bin\Debug\AutoTestMiniShop.pdb
+D:\AutoTestMiniShop\AutoTestMiniShop\obj\Debug\AutoTestMiniShop.csproj.AssemblyReference.cache
+D:\AutoTestMiniShop\AutoTestMiniShop\obj\Debug\AutoTestMiniShop.Properties.Resources.resources
+D:\AutoTestMiniShop\AutoTestMiniShop\obj\Debug\AutoTestMiniShop.csproj.GenerateResource.cache
+D:\AutoTestMiniShop\AutoTestMiniShop\obj\Debug\AutoTestMiniShop.csproj.CoreCompileInputs.cache
+D:\AutoTestMiniShop\AutoTestMiniShop\obj\Debug\AutoTestMiniShop.exe
+D:\AutoTestMiniShop\AutoTestMiniShop\obj\Debug\AutoTestMiniShop.pdb
